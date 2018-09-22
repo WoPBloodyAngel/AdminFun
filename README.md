@@ -13,6 +13,17 @@
 
 ---
 
+## Information
+| Download | Discord |
+| :---: | :---: |
+ [![Download](https://img.shields.io/badge/download-latest-blue.svg)](https://poggit.pmmp.io/ci/georgianYT/ItemDurabiliter/) | <a href="https://discord.gg/e6uH6KF"><img src="https://discordapp.com/api/guilds/454738238121181186/embed.png" alt="Discord server"/></a> |
+ 
+This plugin allows you to change the item durability on the item in your hand with 1 command. This plugin is for anyone to use.
+If you have any issues with the plugin, please make an issue [here](https://github.com/georgianYT/itemDurabiliter/issues/new).
+* Credits: [georgianYT](https://github.com/georgianYT)
+
+---
+
 ## COMMANDS & PERMISSIONS
 | COMMAND | PERMISSION ||
 |---|---|---|
